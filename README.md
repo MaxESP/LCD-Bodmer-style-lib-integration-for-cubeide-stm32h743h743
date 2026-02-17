@@ -21,3 +21,8 @@ sofware
 ✅ Bodmer-style simplicity on STM32 hardware
 
 ✅ Professional-grade UI with minimal resources
+
+Next Step:
+
+Text jpeg stm32 function
+inegrate the i2c touch function
