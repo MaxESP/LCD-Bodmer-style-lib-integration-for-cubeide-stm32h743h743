@@ -32,7 +32,8 @@ Nautical Navigation Screen
 1 default background 
 ![description](https://github.com/MaxESP/LCD-Bodmer-style-lib-integration-for-cubeide-stm32h743h743/blob/main/intro.jpg)
 2 setup waypoint 1,2 and target point from list
-
+![description](https://github.com/MaxESP/LCD-Bodmer-style-lib-integration-for-cubeide-stm32h743h743/blob/main/lcd_liste1.jpg)
+![description](https://github.com/MaxESP/LCD-Bodmer-style-lib-integration-for-cubeide-stm32h743h743/blob/main/lcd_liste2.jpg)
 3 gps screen 1
 
 4 gps and imu screen
