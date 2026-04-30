@@ -30,7 +30,7 @@ inegrate the i2c touch function
 Nautical Navigation Screen 
 
 1 default background 
-![description][(main/intro.png).;](https://github.com/MaxESP/LCD-Bodmer-style-lib-integration-for-cubeide-stm32h743h743/blob/main/intro.jpg)
+![description](https://github.com/MaxESP/LCD-Bodmer-style-lib-integration-for-cubeide-stm32h743h743/blob/main/intro.jpg)
 2 setup waypoint 1,2 and target point from list
 
 3 gps screen 1
