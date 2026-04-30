@@ -26,3 +26,13 @@ Next Step:
 
 Text jpeg stm32 function
 inegrate the i2c touch function
+
+Nautical Navigation Screen 
+
+1 default background 
+
+2 setup waypoint 1,2 and target point from list
+
+3 gps screen 1
+
+4 gps and imu screen
