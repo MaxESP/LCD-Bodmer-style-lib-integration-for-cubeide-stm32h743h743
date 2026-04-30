@@ -30,7 +30,7 @@ inegrate the i2c touch function
 Nautical Navigation Screen 
 
 1 default background 
-![Alt Text](main/intro.png).;
+![description](main/intro.png).;
 2 setup waypoint 1,2 and target point from list
 
 3 gps screen 1
